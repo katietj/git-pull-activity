@@ -12,9 +12,9 @@ def duck_noise
 end
 
 # Task 2: Same as task one, but switch roles
-# def truck_noise
-#   puts "honk"
-# end
+def truck_noise
+  puts "honk"
+end
 
 # Taks 3: Merging Changes
 # One partner should uncomment one method, and the other
