@@ -7,9 +7,9 @@
 # One partner should uncomment this method, add and
 # commit the changes and push to GitHub. The other
 # partner should run git pull to retrieve the changes.
-# def duck_noise
-#   puts "quack"
-# end
+def duck_noise
+  puts "quack"
+end
 
 # Task 2: Same as task one, but switch roles
 # def truck_noise
